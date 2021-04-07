@@ -1,0 +1,10 @@
+C:\Users\poope\Desktop\HvH Forms Project Try 1\bin\Debug\HvH Forms Project Try 1.exe.config
+C:\Users\poope\Desktop\HvH Forms Project Try 1\bin\Debug\HvH Forms Project Try 1.exe
+C:\Users\poope\Desktop\HvH Forms Project Try 1\bin\Debug\HvH Forms Project Try 1.pdb
+C:\Users\poope\Desktop\HvH Forms Project Try 1\obj\Debug\HvH Forms Project Try 1.csprojAssemblyReference.cache
+C:\Users\poope\Desktop\HvH Forms Project Try 1\obj\Debug\HvH_Forms_Project_Try_1.Form1.resources
+C:\Users\poope\Desktop\HvH Forms Project Try 1\obj\Debug\HvH_Forms_Project_Try_1.Properties.Resources.resources
+C:\Users\poope\Desktop\HvH Forms Project Try 1\obj\Debug\HvH Forms Project Try 1.csproj.GenerateResource.cache
+C:\Users\poope\Desktop\HvH Forms Project Try 1\obj\Debug\HvH Forms Project Try 1.csproj.CoreCompileInputs.cache
+C:\Users\poope\Desktop\HvH Forms Project Try 1\obj\Debug\HvH Forms Project Try 1.exe
+C:\Users\poope\Desktop\HvH Forms Project Try 1\obj\Debug\HvH Forms Project Try 1.pdb
